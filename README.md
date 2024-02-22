@@ -1,6 +1,10 @@
-#Office
+#Diss Lab Test Site
 
-A Responsive HTMl Template for Businesses.
+A Responsive HTMl Template forked from technext/Office
+
+#A few changes done according to the need of the purpose
+-The data from about, people, and other base html pages
+-The logo and other images
 
 #Features
 
