@@ -378,7 +378,7 @@ p.blog-text{
 
 @media (max-width: 768px){ 
     .office-logo{
-      height: 80px;
+      height: 100px;
       width: 100px;
   }
 }
